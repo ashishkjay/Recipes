@@ -61,12 +61,17 @@ I like to use long grain white rice(basmati) for my burrito/bowl
 - 1-3/4 cups water
 - 1-1/2 tablespoons unsalted butter
 - 1/2 teaspoon salt
+- To make it cilantro lime rice
+  - Lime juice
+  - salt
+  - cilantro
 
 #### Instructions
 
 - Place the rice in medium bowl and add enough water to cover by 2 inches. Using your hands, gently swish the grains to release any excess starch. Carefully pour off the water, leaving the rice in the bowl. Repeat four times, or until the water runs almost clear. Using a fine mesh strainer, drain the rice.
 - In a medium pot, bring the water, butter, salt, and rice to a boil. Cover the pot with a tight fitting lid, then turn the heat down to a simmer and cook for 15 to 20 minutes, until all of the water is absorbed and the rice is tender.
 - If the rice is still too firm, add a few more tablespoons of water and continue cooking for a few minutes more. Remove the pan from the heat and allow it to sit covered for 5 minutes. Fluff the rice with a fork and serve.
+- Mix the lime juice, salt and chopped cilantro and mix it in with the rice
 
 ---
 
