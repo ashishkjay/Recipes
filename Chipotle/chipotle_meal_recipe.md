@@ -29,9 +29,10 @@ I only have the hot sauce version.
 I used to make this from scratch by roasting tomatillos/garlic in the oven and boiling them. It's a long arduous process.
 
 Here is an EZPZ option. Buy this from Target!
+
 [Frontera roasted tomatillo garlic salsa](https://www.target.com/p/frontera-chipotle-salsa-16-oz/-/A-14907536)
 
-![Tomatillo sauce](./recipe.png =250x)
+<img src="recipe.png" width="130" height="200" />
 
 #### Ingredients
 
