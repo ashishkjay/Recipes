@@ -1,8 +1,8 @@
 # Chipotle Meal
 
-#### This is an EZPZ DIY Chipotle recipe after many iterations of getting it right while making it simple as possible. extra ingredients will be marked with asterisks
+#### This is an EZPZ DIY Chipotle recipe after many iterations of getting it as close to the real deal as possible. I was able to procure ingredients for this due to chipotle being very "open" about their ingredients. \*\* The rice steps is copy pasted based on a highly rated recipe.
 
-## Optional ingredients to procure is sour cream/cheese/corn if you fancy them
+### Optional ingredients to procure is sour cream/cheese/corn if you fancy them
 
 # Pre cooking prep
 
@@ -80,7 +80,7 @@ As for veggies you can do with sautéed chopped green peppers/red onions
 
 ## Guac
 
-Again this is all upto your preference, ther will be plenty left over
+Again this is all upto your preference, there will be plenty left over for your tortilla chips for later
 
 #### Ingredients
 
@@ -101,5 +101,7 @@ You can grill them or bake them but as long as it reaches optimal cooked interal
 
 #### Serve as a bowl or make a burrito with large enough tortillas
 
-- If you like a soft tortilla like chipotle, you can do this ->
+- If you like a soft gummy tortilla like chipotle, you can do this ->
   - In the microwave topped with a damp paper towel for 10-20 seconds depending on how how soft you like the tortilla. This will allow the tortilla to stretch a little bit more while wrapping.
+
+#### You can freeze every single of the recipe component for meal prepping. Onions don't freeze nicely, so thats the only con.
