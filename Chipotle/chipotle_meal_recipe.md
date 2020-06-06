@@ -1,4 +1,4 @@
-# Chipotle chicken
+# Chipotle Meal
 
 #### This is an EZPZ DIY Chipotle recipe after many iterations of getting it right while making it simple as possible. extra ingredients will be marked with asterisks
 
