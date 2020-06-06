@@ -1,1 +1,1 @@
-# Recipes
+# List of public recipes
