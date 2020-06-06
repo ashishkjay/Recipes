@@ -31,7 +31,7 @@ I used to make this from scratch by roasting tomatillos/garlic in the oven and b
 Here is an EZPZ option. Buy this from Target!
 [Frontera roasted tomatillo garlic salsa](https://www.target.com/p/frontera-chipotle-salsa-16-oz/-/A-14907536)
 
-![Tomatillo sauce](recipe.png =100x20)
+![Tomatillo sauce](./recipe.png =250x)
 
 #### Ingredients
 
