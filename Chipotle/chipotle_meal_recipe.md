@@ -107,7 +107,6 @@ You can grill them or bake them but as long as it reaches optimal cooked interal
 
 #### Serve as a bowl or make a burrito with large enough tortillas
 
-- If you like a soft gummy tortilla like chipotle, you can do this ->
-  - In the microwave topped with a damp paper towel for 10-20 seconds depending on how how soft you like the tortilla. This will allow the tortilla to stretch a little bit more while wrapping.
+- If you like a soft gummy tortilla like chipotle, you can buy [this](https://www.walmart.com/ip/Old-El-Paso-Restaurant-Grande-Shells-6-Count-21-5-oz/43310156)
 
 #### You can freeze every single of the recipe component for meal prepping. Onions don't freeze nicely, so thats the only con.
