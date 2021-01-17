@@ -52,7 +52,7 @@ Here is an EZPZ option. Buy this from Target!
 
 ## Rice
 
-[https://github.com/chasexd/Recipes/tree/master/Basmati%20Rice](Follow this instant pot rice recipe
+(https://github.com/chasexd/Recipes/tree/master/Basmati%20Rice)[Follow this instant pot rice recipe]
 after you are done cooking it, get some soy oil/rice bran oil/canola oil to mix with your rice.
 Add in lime juice/lemon juice and chopped cilantro.
 
