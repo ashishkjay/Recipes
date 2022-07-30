@@ -40,6 +40,7 @@ Choose this yourself
 #### Topping and sauce prep
 - First make the Garlic Spicy Aioli and store in the fridge
 - Prep your toppings
+### Cook
 #### Make the burger
 
 - In a blender on pulse, blend together the following to make the panade
